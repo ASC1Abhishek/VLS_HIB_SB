@@ -8,7 +8,7 @@ use VLS;
 
 SELECT * FROM Courses;
 
-INSERT INTO COURSES VALUES(1,"Java",1,"Sanjay",10);
+INSERT INTO COURSES VALUES(1,"Java",1,"Sanjay",10);<br /> 
 INSERT INTO COURSES VALUES(2,"Python",0,"Selva",10);
 
 
