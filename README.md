@@ -13,8 +13,8 @@ INSERT INTO COURSES VALUES(2,"Python",0,"Selva",10);
 
 
 #Browser URL's
-http://localhost:8080/api/courses
-http://localhost:8080/api/courses/id/1
-http://localhost:8080/api/courses/id/2
-http://localhost:8080/api/courses/author/Sanjay
+http://localhost:8080/api/courses<br /> 
+http://localhost:8080/api/courses/id/1<br /> 
+http://localhost:8080/api/courses/id/2<br /> 
+http://localhost:8080/api/courses/author/Sanjay<br /> 
 http://localhost:8080/api/courses/author/Selva
